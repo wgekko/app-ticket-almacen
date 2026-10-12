@@ -46,8 +46,8 @@ Una aplicación web interactiva y modular desarrollada en **Python** y **Streaml
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/almacen-don-pepe-pos.git
-   cd almacen-don-pepe-pos
+   git clone (https://github.com/wgekko/app-ticket-almacen.git)
+   cd app-ticket-almacen
    ```
 
 2. **Crear y activar un entorno virtual:**
@@ -83,3 +83,10 @@ font = "sans serif"
 [server]
 toolbarMode = "minimal"
 ```
+
+video demo 
+
+
+https://github.com/user-attachments/assets/614c10bc-92e5-4a0f-bdf4-1506da342047
+
+
